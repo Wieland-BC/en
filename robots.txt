@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wieland-bc.github.io/neu/sitemap.xml
