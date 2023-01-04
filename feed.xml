@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>en</title>
     <link href="https://www-en.wieland-bc.de/feed.xml" rel="self" />
     <link href="https://www-en.wieland-bc.de" />
@@ -116,7 +116,7 @@
         <updated>2021-09-19T20:27:57+02:00</updated>
             <summary>
                 <![CDATA[
-                    Wir verfügen über langjährige Erfahrungen in verschiedenen Branchen. Unser Team von Bauingenieuren und Kaufleuten hat neben einer sehr guten Ausbildung an der Hochschule laufend Weiterbildungen eingeplant und sein Wissen in der Praxis im In- und Ausland vertieft. Dazu zählen unter anderem: Nachfolgend finden Sie einige Impressionen unserer bisherigen Projekte: 
+                    Wir verfügen über langjährige Erfahrungen in verschiedenen Branchen. Unser Team von Bauingenieuren und Kaufleuten hat neben einer sehr guten Ausbildung an der Hochschule laufend Weiterbildungen eingeplant und sein Wissen in der Praxis im In- und Ausland vertieft. Dazu zählen unter anderem: Nachfolgend finden Sie einige Impressionen unserer bisherigen Projekte:
                 ]]>
             </summary>
         <content type="html">
@@ -317,7 +317,7 @@
         <content type="html">
             <![CDATA[
                 <h2>Work Experience and Business Record</h2>
-<figure class="post__image"><img loading="lazy"  src="https://www-en.wieland-bc.de/media/posts/2/Wieland_klein.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-xs.jpg 300w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-sm.jpg 480w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-md.jpg 768w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-lg.jpg 1024w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-xl.jpg 1360w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-2xl.jpg 1600w"  alt="Frank D. Wieland, Gründer Wieland Baumanagement Consult" width="114" height="151" align="left"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www-en.wieland-bc.de/media/posts/2/Wieland_klein.jpg" alt="Frank D. Wieland, Gründer Wieland Baumanagement Consult" width="114" height="151" align="left" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-xs.jpg 300w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-sm.jpg 480w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-md.jpg 768w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-lg.jpg 1024w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-xl.jpg 1360w ,https://www-en.wieland-bc.de/media/posts/2/responsive/Wieland_klein-2xl.jpg 1600w"></figure>
 <p>The founder, Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland has multiple years of industry experience in leadership roles in domestic and cross-border projects, ranging from Industrial and Commercial construction, Hospitals to Office and High-Rise building construction. He and his team of experts are used to handle complex, eight digits worth projects. With his voluntary add-on education as certified Business Mediator and his many years of experience in leadership roles he is your perfect partner for your construction-related projects! </p>
 <h2>Business Network</h2>
 <p>Wieland Baumanagement Consult is part of an extensive network of construction engineering offices throughout Germany comprising over 25 highly-skilled engineers. As part of this network we are able to assist you and your projects even on a short notice. We are especially focused on rescuing construction sites about to fail. </p>
