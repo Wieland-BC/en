@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www-en.wieland-bc.de/sitemap.xml
+Sitemap: https://www-en.wieland-bc.com/sitemap.xml
