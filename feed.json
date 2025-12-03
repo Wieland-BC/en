@@ -29,14 +29,14 @@
             "url": "https://www-en.wieland-bc.com/fuer-projektentwickler.html",
             "title": "For Project Developers",
             "summary": "We are your reliable and experienced partner for development and real estate consulting. With many years of expertise, we support you in: Schedule an appointment today!",
-            "content_html": "<div>\n<p>We are your reliable and experienced partner for development and real estate consulting. With many years of expertise, we support you in:</p>\n<ul>\n<li><strong>Zoning and Building Rights Procurement</strong></li>\n<li><strong>Land Management: </strong>coordination of EDD, TDD, LDD, environmental protection, and unexploded ordnance clearance</li>\n<li><strong>Building Permit Management:</strong> coordination of architects and certified experts for structural safety, traffic, noise, and drainage</li>\n<li><strong>Contract Management:</strong> coordination of general contractor agreements, lease contracts, and DMA</li>\n<li><strong>Project Management:</strong> coordination of general contractors and technical consultants</li>\n<li><strong>Tenant and Investor Relations</strong></li>\n<li><strong>Handover and Acceptance to Tenants</strong></li>\n<li><strong>Deficiency Management</strong></li>\n<li><strong>Claims and Contract Administration</strong></li>\n</ul>\n<p>Schedule an appointment today!</p>\n</div>",
+            "content_html": "<div>\n<p>We are your reliable and experienced partner for development and real estate consulting. With many years of expertise, we support you in:</p>\n<ul>\n<li><strong>Zoning and Building Rights Procurement</strong></li>\n<li><strong>Land Management: </strong>coordination of EDD, TDD, LDD, species protection, and \n<div>explosive ordnance disposal (EOD)</div>\n</li>\n<li><strong>Building Permit Management:</strong> coordination of architects and certified experts for structural safety, traffic, noise, and drainage</li>\n<li><strong>Contract Management:</strong> coordination of general contractor agreements, lease contracts, and DMA</li>\n<li><strong>Project Management:</strong> coordination of general contractors and technical consultants</li>\n<li><strong>Tenant and Investor Relations</strong></li>\n<li><strong>Handover and Acceptance to Tenants</strong></li>\n<li><strong>Construction Defect Management</strong></li>\n<li><strong>Claims and Contract Management</strong></li>\n<li><strong>Sustainable Construction by DGNB</strong>: German Society for Sustainable Construction</li>\n</ul>\n<p>Schedule an appointment today!</p>\n</div>",
             "author": {
                 "name": "Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland"
             },
             "tags": [
             ],
             "date_published": "2021-09-28T14:53:27+02:00",
-            "date_modified": "2025-12-03T22:13:35+01:00"
+            "date_modified": "2025-12-03T23:02:13+01:00"
         },
         {
             "id": "https://www-en.wieland-bc.com/offene-stellen.html",
