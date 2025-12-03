@@ -3,7 +3,7 @@
     <title>en</title>
     <link href="https://www-en.wieland-bc.com/feed.xml" rel="self" />
     <link href="https://www-en.wieland-bc.com" />
-    <updated>2024-12-12T00:51:37+01:00</updated>
+    <updated>2025-12-03T22:13:35+01:00</updated>
     <author>
         <name>Dipl.Ing.(TU) Dipl.Kfm.(FH) Frank D. Wieland</name>
     </author>
@@ -44,27 +44,29 @@
         <link href="https://www-en.wieland-bc.com/fuer-projektentwickler.html"/>
         <id>https://www-en.wieland-bc.com/fuer-projektentwickler.html</id>
 
-        <updated>2023-11-22T22:46:16+01:00</updated>
+        <updated>2025-12-03T22:13:35+01:00</updated>
             <summary>
                 <![CDATA[
-                    Wir sind Ihr zuverlässiger und kompetenter Partner in Entwicklungs- und Immobilienberatung. Mit langjähriger Erfahrung unterstützen wir Sie bei Vereinbaren Sie einen Termin!
+                    We are your reliable and experienced partner for development and real estate consulting. With many years of expertise, we support you in: Schedule an appointment today!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Wir sind Ihr zuverlässiger und kompetenter Partner in Entwicklungs- und Immobilienberatung. Mit langjähriger Erfahrung unterstützen wir Sie bei</p>
+                <div>
+<p>We are your reliable and experienced partner for development and real estate consulting. With many years of expertise, we support you in:</p>
 <ul>
-<li>Baurechtschaffung<u></u><u></u></li>
-<li>Grundstücksmanagement (Koordination EDD TDD LDD Artenschutz Kampfmittel)<u></u></li>
-<li>Bauantragsmanagement  (Koordination Architekt und Sachverständige (BS Verkehr Lärm Entwässerung)<u></u><u></u></li>
-<li>Vertragsmanagement (Koordination GU Vertrag Mietvertrag und DMA)<u></u><u></u></li>
-<li>Mieter- und Investorenbetreuung<u></u><u></u></li>
-<li>Projektsteuerung (Koordination GU und Sachverständige)<u></u><u></u></li>
-<li>Abnahme und Übergabe an den Mieter<u></u><u></u></li>
-<li>Mängelmanagement<u></u><u></u></li>
-<li>Claims- und Contractmanagement</li>
+<li><strong>Zoning and Building Rights Procurement</strong></li>
+<li><strong>Land Management: </strong>coordination of EDD, TDD, LDD, environmental protection, and unexploded ordnance clearance</li>
+<li><strong>Building Permit Management:</strong> coordination of architects and certified experts for structural safety, traffic, noise, and drainage</li>
+<li><strong>Contract Management:</strong> coordination of general contractor agreements, lease contracts, and DMA</li>
+<li><strong>Project Management:</strong> coordination of general contractors and technical consultants</li>
+<li><strong>Tenant and Investor Relations</strong></li>
+<li><strong>Handover and Acceptance to Tenants</strong></li>
+<li><strong>Deficiency Management</strong></li>
+<li><strong>Claims and Contract Administration</strong></li>
 </ul>
-<p>Vereinbaren Sie einen Termin!</p>
+<p>Schedule an appointment today!</p>
+</div>
             ]]>
         </content>
     </entry>
